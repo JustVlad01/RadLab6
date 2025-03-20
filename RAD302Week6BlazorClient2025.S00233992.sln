@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAD302Week6BlazorClient2025.S00233992", "RAD302Week6BlazorClient2025.S00233992\RAD302Week6BlazorClient2025.S00233992.csproj", "{F768F3D1-4468-42F9-BA87-FE5EFD37632C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rad302Week6Lab2025.DataModel.S00233992", "Rad302Week6Lab2025.DataModel.S00233992\Rad302Week6Lab2025.DataModel.S00233992.csproj", "{CEBBEDC3-3B56-49B1-88CC-AC4EBBAF517D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F768F3D1-4468-42F9-BA87-FE5EFD37632C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F768F3D1-4468-42F9-BA87-FE5EFD37632C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F768F3D1-4468-42F9-BA87-FE5EFD37632C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F768F3D1-4468-42F9-BA87-FE5EFD37632C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBBEDC3-3B56-49B1-88CC-AC4EBBAF517D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBBEDC3-3B56-49B1-88CC-AC4EBBAF517D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBBEDC3-3B56-49B1-88CC-AC4EBBAF517D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBBEDC3-3B56-49B1-88CC-AC4EBBAF517D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEDD2C38-238F-4959-A8C3-EB1E4C3DE083}
+	EndGlobalSection
+EndGlobal
